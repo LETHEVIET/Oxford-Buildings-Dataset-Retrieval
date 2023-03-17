@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-hub
+faiss-cpu
+scikit-image
+streamlit
+streamlit_cropper
+matplotlib
+tqdm
+opencv-python
+gdown
